@@ -1,4 +1,5 @@
 header {
+  /*watch out for indentation here*/
     background: url("http://static.simpledesktops.com/uploads/desktops/2013/05/24/constellation.png");
     background-size: cover;
     background-position: center;
@@ -42,6 +43,7 @@ p {
   text-decoration: none;
   text-shadow: 1px 0px #000000
 }
+/*If you were planning to add additional style to the body, this should be at the top of the CSS file*/
 body {
 
 }
